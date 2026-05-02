@@ -36,8 +36,3 @@ python clean_and_visualize.py --input data/sample_raw.csv --output outputs
 ```bash
 streamlit run app.py
 ```
-
-Next steps
-
-- Replace `data/sample_raw.csv` with your raw CSV file and run the script.
-- Tell me if you want me to run the script on your dataset or customize cleaning rules.
